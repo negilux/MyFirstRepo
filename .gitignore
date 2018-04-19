@@ -6,3 +6,6 @@
 *.lock
 *.ide
 *.suo
+/.vs
+/FoodRecipe/.vs/FoodRecipe/v15/Server/sqlite3
+/FoodRecipe/DataLayer/obj
